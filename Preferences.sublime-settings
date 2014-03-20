@@ -1,0 +1,15 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by file type specific settings.
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"draw_white_space": "all",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"trim_trailing_white_space_on_save": true
+}
