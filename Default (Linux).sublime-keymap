@@ -2,5 +2,6 @@
 	{ "keys": ["ctrl+d"], "command": "duplicate_line" },
 	{ "keys": ["ctrl+e"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["ctrl+shift+e"], "command": "toggle_comment", "args": { "block": true } },
-	{ "keys": ["ctrl+shift+f"], "command": "clang_format" }
+	{ "keys": ["ctrl+shift+f"], "command": "clang_format" },
+	{ "keys": ["ctrl+shift+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
 ]
